@@ -44,4 +44,4 @@ Because smart contracts are immutable. Redeploying will reset all states and var
 
 #### Remember after deploying, it takes time for opensea or rarible to update metadata. If it still doesn't work or show up after 24 hours, please use Rarible. It is like OpenSEA, but is known to update its metadata faster.
 
-#### https://rinkeby.rarible.com/token/0x288F97db56cE6218454d69294E01C23c8bc6C684:INSERT_TOKEN_ID_HERE?
+#### https://rinkeby.rarible.com/token/0x288F97db56cE6218454d69294E01C23c8bc6C684:INSERT_TOKEN_ID_HERE
