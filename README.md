@@ -1,5 +1,7 @@
 # A website to mint NFT's and deploy them to the Ethereum blockchain.
 
+## Website - https://splash-nft-collection.netlify.app/
+
 ### https://rinkeby.etherscan.io/address/0x288F97db56cE6218454d69294E01C23c8bc6C684#code
 
 ### Commands
