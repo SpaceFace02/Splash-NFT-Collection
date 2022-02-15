@@ -28,9 +28,10 @@
 2. Ethers
 3. Alchemy
 4. Metamask
-5. Rinkeby Test Network
-6. Vite (React)
-7. EtherScan API - For verifying the smart contract an converting form bytecode to the real Smart contract code.
+5. OpenZeppelin
+6. Rinkeby Test Network
+7. Vite (React)
+8. EtherScan API - For verifying the smart contract an converting form bytecode to the real Smart contract code.
 
 **Also its recommended to use Google Chrome with the metamask extension installed**
 Let's say you want to change your contract. You'd need to do 3 things:
