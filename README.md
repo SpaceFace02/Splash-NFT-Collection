@@ -2,7 +2,7 @@
 
 ## Website - https://splash-nft-collection.netlify.app/
 
-### https://rinkeby.etherscan.io/address/0x288F97db56cE6218454d69294E01C23c8bc6C684#code
+#### Verified Smart Contract - https://rinkeby.etherscan.io/address/0x288F97db56cE6218454d69294E01C23c8bc6C684#code
 
 ### Commands
 
