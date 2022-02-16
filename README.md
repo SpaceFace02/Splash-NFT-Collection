@@ -42,7 +42,7 @@ Let's say you want to change your contract. You'd need to do 3 things:
 - We need to update the contract address on our frontend.
 - We need to update the abi file on our frontend.
 
-Because smart contracts are immutable. Redeploying will reset all states and variables, and will be treated as a brand new contract. We'd lose all of our NFT data if we redeploy.
+Because smart contracts are immutable. Redeploying will reset all states and variables, and will be treated as a brand new contract. We'd lose all of our NFT data if we redeploy. Learn more about smart contracts, EVM and bytecode - [https://ethervm.io/](https://ethervm.io/)
 
 #### Remember after deploying, it takes time for opensea or rarible to update metadata. If it still doesn't work or show up after 24 hours, please use Rarible. It is like OpenSEA, but is known to update its metadata faster.
 
